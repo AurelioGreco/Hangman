@@ -1,2 +1,2 @@
 # Hangman
-The hangman game developed with React18 and Bootstrap 5.
+The hangman game developed with React 18 and Bootstrap 5.
